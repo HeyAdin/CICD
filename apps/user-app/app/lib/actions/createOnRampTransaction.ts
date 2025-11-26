@@ -23,6 +23,6 @@ export const createOnRampTransaction = async (provider: string, amount: number) 
     });
 
     return {
-        message: "On Ramp Transaction added"
+        message: "On Ramp Transaction Added"
     }
 }
